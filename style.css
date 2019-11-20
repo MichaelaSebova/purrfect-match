@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1489084917528-a57e68a79a1e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top;
+    padding: 70px;
+    font-family: 'Marcellus', serif;
+    letter-spacing: 5px;
+}
+#main-content {
+    text-align: center;
+    color: white;
+    margin-top: 20%;
+    font-size: 2vw;
+    text-shadow: 0px 5px 4px black,
+                 0px 8px 25px grey;
+}
+
+#main-content h1 {
+    font-size: 6vw;
+}
+hr {
+
+    height: 1px;
+
+    background-color:#f8f8f8;
+
+    margin-top: 10px;
+
+    margin-bottom: 20px;
+
+    width: 70%;
+
+}
+
+html, body {
+    height: 100%;
+}
